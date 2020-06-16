@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nation info</string>
+    <string name="country_name">Country name:</string>
+    <string name="area">Area:</string>
+    <string name="population">Population:</string>
+    <string name="nation_flag">Nation flag:</string>
+    <string name="load_button">Load data from geonames.org</string>
+</resources>
